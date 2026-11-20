@@ -1,4 +1,4 @@
-СантехDNS — Интернет-магазин сантехники (FastAPI + Next.js + PostgreSQL/SQLite)
+Сантех — Интернет-магазин сантехники (FastAPI + Next.js + PostgreSQL/SQLite)
 Быстрый запуск
 (Опционально) Запустите PostgreSQL через Docker: docker-compose up -d. По умолчанию Backend использует локальную SQLite базу santeh.db для мгновенного запуска.
 Backend:
